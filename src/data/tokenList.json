@@ -1,0 +1,19 @@
+[
+    {
+        "chain": "starknet",
+        "token": [
+            "eth",
+            "usdc",
+            "usdt",
+            "strk"
+        ]
+    },
+    {
+        "chain": "zkSync",
+        "token": [
+            "eth",
+            "usdc",
+            "usdt"
+        ]
+    }
+]
